@@ -42,6 +42,7 @@ $ pwd
 ```
 
 > Note: It is important to notice that the `hostPath` in the volume.yaml need to be replaced with the local directory you created.
+> Note: The docker file created above need to be copied to the local directory you created.
 
 ## Create a Secret that holds your authorization token
 
